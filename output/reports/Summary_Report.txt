@@ -1,0 +1,42 @@
+======================================
+Delhi Air Pollution Case Study Report
+======================================
+
+1. Dataset Summary
+------------------
+Total observations: 8784
+Time period covered: 2024-01-01 00:00:00 to 2024-12-31 23:00:00
+
+2. Pollution Highlights (PM2.5)
+-------------------------------
+Highest PM2.5 month: November (250.03 µg/m³)
+Lowest PM2.5 month: August (27.50 µg/m³)
+
+Mean: 104.20
+Median: 73.63
+Maximum: 820.08
+Minimum: 7.64
+Standard deviation: 89.16
+
+3. Wind Observations
+--------------------
+Highest Wind Speed month: June (1.39 m/s)
+Lowest Wind Speed month: November (0.66 m/s)
+
+Mean: 0.98
+Median: 0.83
+Maximum: 5.79
+Minimum: 0.36
+Standard deviation: 0.52
+
+4. Correlation
+--------------
+Correlation between PM2.5 and Wind Speed: -0.3366
+
+5. Important Conclusions
+------------------------
+- Wind speed tends to influence the dispersion of PM2.5.
+- Analysis shows a specific seasonal trend depending on the dominant wind directions plotted in the wind rose diagrams.
+- Higher wind speeds often result in lower PM2.5 concentrations due to increased atmospheric mixing.
+
+======================================
